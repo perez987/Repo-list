@@ -9,10 +9,10 @@ It'is inspired by the [Clover Themes Gallery](https://github.com/chris1111/Clove
 No install step or local web server is required.
 
 1. Download or clone the repository.
-2. Open `Repo-list/index.html` directly in a browser.
+2. Open `index.html` directly in a browser.
 
 The page keeps the repository data, styling, filtering, search, and background effects in separate HTML, CSS, and JavaScript files so it stays easy to maintain while still working with a simple double-click.
 
 ## Remote use
 
-You can see the site in action by clicking [here](https://perez987.es/repo-list/).
+You can see the site in action by clicking <a href="https://perez987.es/repo-list/" target="_blank" rel="noopener noreferrer">here</a>.
