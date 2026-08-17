@@ -181,7 +181,7 @@
           name: "Microsoft Access in Java with UCanAccess",
           url: "https://github.com/perez987/Microsoft-Access-in-Java-with-UCanAccess",
           description: "Microsoft Access in Java with 64 bits UCanAccess driver.",
-          category: "Java",
+          category: "Other",
           accent: "#eed2ee",
           highlights: ["UCanAccess", "Jackcess", "JDBC", "ODBC"],
         },
@@ -245,11 +245,11 @@
         },
         {
           id: 26,
-          name: "Slwwp issue in macOS Sequoia",
+          name: "Sleep issue in macOS Sequoia",
           url: "https://github.com/perez987/macOS-15-sequoia-sleep-issue",
           description:
             "macOS 15 Sequoia does enter sleep properly due to wake events.",
-          category: "GitHub",
+          category: "Hackintosh",
           accent: "#00ff00",
           highlights: ["apsd process", "Wake Events", "launchctl"],
         },
@@ -328,7 +328,7 @@
           url: "https://github.com/perez987/HTML-from-XML-XSL-with-VisualStudio",
           description:
             "Convert an XML document to an HTML document with formatting and layout defined in an XSL style sheet with Visual Studio 2019 (VB).",
-          category: "Visual Studio",
+          category: "Other",
           accent: "#56d364",
           highlights: ["XSLCompiledTransform", "XSLT"],
         },
