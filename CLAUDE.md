@@ -12,7 +12,7 @@ A standalone, single-page repository gallery (`index.html`) for perez987's GitHu
 - `script.js` — all application logic: repository data array (`repos`), rendering, filtering, search, category pills, highlights modal, and canvas star-field animation
 - `styles.css` — all styles; uses CSS custom properties for theming and accent colors
 - `README.md` — project description
-- `Cycle-colors.md` — notes on the accent-color cycling feature
+- `DOCS/Cycle-colors.md` — notes on the accent-color cycling feature
 
 ## Repository data
 
