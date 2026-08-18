@@ -1,13 +1,13 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Standalone repository gallery for perez987's SwiftUI projects."
+      content="Galería de repositorios independiente para los proyectos de SwiftUI de perez987."
     />
-    <title>Repo List Gallery</title>
+    <title>Galería de Repositorios</title>
     <link
       rel="icon"
       href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%230b1016'/%3E%3Cpath d='M18 24h28v16H18z' fill='%232ea043' opacity='.22'/%3E%3Cpath d='M20 20h10l3 4h11a4 4 0 0 1 4 4v16H16V24a4 4 0 0 1 4-4z' fill='%232ea043'/%3E%3C/svg%3E"
@@ -23,7 +23,7 @@
           <div class="hero-copy">
             <div class="hero-badge">
               ✦
-              <span>Site built with html + css + js</span>
+              <span>Sitio creado con html + css + js</span>
             </div>
             <div class="hero-title-row">
               <div class="hero-logo" aria-hidden="true">
@@ -34,26 +34,26 @@
                 </svg>
               </div>
               <div>
-                <h1>Repo List Gallery</h1>
+                <h1>Galería de Repositorios</h1>
                 <p>
-                  A repository showcase for perez987&apos;s GitHub projects, designed to work with a
-                  double-click locally or as a simple hosted page.
+                  Una vitrina de repositorios de los proyectos de GitHub de perez987, diseñada para funcionar con
+                  doble clic de forma local o como página web alojada.
                 </p>
               </div>
             </div>
           </div>
 
-          <div class="hero-stats" aria-label="Repository gallery summary">
+          <div class="hero-stats" aria-label="Resumen de la galería de repositorios">
             <div class="stat-card">
-              <span class="stat-label">Repositories</span>
+              <span class="stat-label">Repositorios</span>
               <strong id="repo-count">0</strong>
             </div>
           <div class="stat-card">
-              <span class="stat-label">Visible</span>
+              <span class="stat-label">Visibles</span>
               <strong id="visible-count">0</strong>
             </div>
             <div class="stat-card">
-              <span class="stat-label">Highlights</span>
+              <span class="stat-label">Destacados</span>
               <strong id="highlight-count">0</strong>
             </div>
           </div>
@@ -62,17 +62,17 @@
         <section class="toolbar-panel">
           <div class="toolbar-heading">
             <div>
-              <span class="eyebrow">Collections</span>
-              <h2>Browse repository cards</h2>
+              <span class="eyebrow">Colecciones</span>
+              <h2>Explorar tarjetas de repositorios</h2>
             </div>
             <div class="toolbar-badge">
               <span>☰</span>
-              <span id="active-category-label">All</span>
+                   <span id="active-category-label">Todos</span>
             </div>
           </div>
 
           <div class="toolbar-controls">
-            <div class="category-pills" id="category-pills" role="tablist" aria-label="Repository categories"></div>
+            <div class="category-pills" id="category-pills" role="tablist" aria-label="Categorías de repositorios"></div>
 
             <label class="search-shell">
               <svg class="icon-inline" viewBox="0 0 24 24" aria-hidden="true">
@@ -84,14 +84,14 @@
               <input
                 id="search-input"
                 type="search"
-                placeholder="Search repos, features, descriptions…"
-                aria-label="Search repositories"
+                placeholder="Buscar repositorios, funciones, descripciones…"
+                aria-label="Buscar repositorios"
               />
             </label>
           </div>
         </section>
 
-        <section class="repo-grid" id="repo-grid" aria-label="Repository gallery"></section>
+        <section class="repo-grid" id="repo-grid" aria-label="Galería de repositorios"></section>
 
         <section class="empty-state" id="empty-state">
           <svg class="icon-large" viewBox="0 0 24 24" aria-hidden="true">
@@ -99,12 +99,12 @@
               d="M12 2C6.477 2 2 6.59 2 12.25c0 4.53 2.865 8.373 6.839 9.73.5.096.682-.223.682-.495 0-.244-.01-1.05-.014-1.905-2.782.618-3.369-1.215-3.369-1.215-.455-1.183-1.11-1.498-1.11-1.498-.908-.638.069-.625.069-.625 1.004.072 1.532 1.069 1.532 1.069.892 1.57 2.341 1.116 2.91.853.09-.665.35-1.116.636-1.373-2.22-.261-4.555-1.14-4.555-5.073 0-1.12.39-2.037 1.03-2.755-.104-.261-.446-1.313.098-2.739 0 0 .84-.277 2.75 1.052A9.32 9.32 0 0 1 12 6.845c.85.004 1.706.118 2.504.347 1.908-1.329 2.747-1.052 2.747-1.052.546 1.426.204 2.478.1 2.739.64.718 1.028 1.635 1.028 2.755 0 3.943-2.339 4.809-4.566 5.065.359.319.679.944.679 1.902 0 1.374-.012 2.482-.012 2.82 0 .274.18.596.688.494A10.257 10.257 0 0 0 22 12.25C22 6.59 17.523 2 12 2Z"
             />
           </svg>
-          <h3>No repositories found</h3>
-          <p>Try a different search term or switch back to the full collection.</p>
+          <h3>No se han encontrado repositorios</h3>
+          <p>Prueba con otro término de búsqueda o vuelve a la colección completa.</p>
         </section>
       </main>
 
-      <button type="button" class="back-to-top" id="back-to-top" aria-label="Back to top">↑</button>
+      <button type="button" class="back-to-top" id="back-to-top" aria-label="Volver arriba">↑</button>
     </div>
     <script src="script.js"></script>
   </body>

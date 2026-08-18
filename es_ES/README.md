@@ -1,18 +1,18 @@
-# Repo List Gallery
+# Galería de Repositorios
 
-This repository is a list of some of my GitHub projects, in a modern design, built as a static html site. It consists of three files: browser content (HTML), interface design (CSS), and JavaScript functions (JS): `index.html`, `styles.css`, and `script.js`.
+Este repositorio es una lista de algunos de mis proyectos de GitHub, con un diseño moderno, construido como sitio html estático. Consta de tres archivos: contenido del navegador (HTML), diseño de la interfaz (CSS) y funciones JavaScript (JS): `index.html`, `styles.css` y `script.js`.
 
-It'is inspired by the [Clover Themes Gallery](https://github.com/chris1111/Clover-Themes-Gallery), by *chris1111*.
+Está inspirado en la [Clover Themes Gallery](https://github.com/chris1111/Clover-Themes-Gallery), de *chris1111*.
 
-## Local use
+## Uso local
 
-No install step or local web server is required.
+No se requiere ningún paso de instalación ni servidor web local.
 
-1. Download or clone the repository.
-2. Open `index.html` directly in a browser.
+1. Descarga o clona el repositorio.
+2. Abre `index.html` directamente en un navegador.
 
-The page keeps the repository data, styling, filtering, search, and background effects in separate HTML, CSS, and JavaScript files so it stays easy to maintain while still working with a simple double-click.
+La página mantiene los datos del repositorio, el estilo, el filtrado, la búsqueda y los efectos de fondo en archivos HTML, CSS y JavaScript separados, de modo que resulta fácil de mantener y funciona con un simple doble clic.
 
-## Remote use
+## Uso remoto
 
-You can see the site in action by clicking [here](https://perez987.es/repo-list/).
+Puedes ver el sitio en acción haciendo clic [aquí](https://perez987.es/repo-list/).
