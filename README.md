@@ -15,4 +15,4 @@ The page keeps the repository data, styling, filtering, search, and background e
 
 ## Remote use
 
-You can see the site in action by clicking <a href="https://perez987.es/repo-list/" target="_blank">here</a>.
+You can see the site in action by clicking [here](https://perez987.es/repo-list/).
