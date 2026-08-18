@@ -389,6 +389,7 @@ azure3 → c1cdcd
       const categoryPills = document.getElementById("category-pills");
       const activeCategoryLabel = document.getElementById("active-category-label");
       const repoCount = document.getElementById("repo-count");
+      const visibleCount = document.getElementById("visible-count");
       const highlightCount = document.getElementById("highlight-count");
       const backToTop = document.getElementById("back-to-top");
 
@@ -437,6 +438,7 @@ azure3 → c1cdcd
         );
 
         repoGrid.innerHTML = "";
+        visibleCount.textContent = String(filteredRepos.length);
         emptyState.classList.toggle("show", filteredRepos.length === 0);
         repoGrid.hidden = filteredRepos.length === 0;
 
