@@ -15,4 +15,4 @@ La página mantiene los datos del repositorio, el estilo, el filtrado, la búsqu
 
 ## Uso remoto
 
-Puedes ver el sitio en acción haciendo clic [aquí](https://perez987.es/repo-list/).
+Puedes ver el sitio en acción haciendo clic [aquí](https://perez987.es/repo-list/Spanish/).

@@ -24,7 +24,7 @@
           name: "Apple Secure Boot and Vault with OpenCore",
           url: "https://github.com/perez987/Apple-Secure-Boot-and-Vault-with-OpenCore",
           description:
-            "OpenCore y Apple Secure Boot. SecureBootModel en OpenCore 0.7.2+. Bóveda de seguridad de OpenCore.",
+            "OpenCore y Apple Secure Boot. SecureBootModel en OpenCore 0.7.2+. `Vault` en OpenCore.",
           category: "Hackintosh",
           accent: "#f2cc60",
           highlights: ["SecureBootModel", "OpenCore vault", "ApECID"],
@@ -44,7 +44,7 @@
           name: "Audiometry",
           url: "https://github.com/perez987/Audiometry",
           description:
-            "Aplicación de audiometría desarrollada con SwiftUI en Xcode 15. Calcula la pérdida auditiva, el ELI y el SAL. CoreData y SwiftUI como almacenamiento de datos. Impresión del informe del paciente.",
+            "Aplicación de audiometría desarrollada con SwiftUI en Xcode 15. Calcula la pérdida auditiva, ELI y SAL. CoreData y SwiftUI como almacenamiento de datos. Impresión del informe del paciente.",
           category: "SwiftUI App",
           accent: "#eed2ee",
           highlights: ["Hearing loss", "ELI index", "SAL index"],
@@ -94,7 +94,7 @@
           name: "GitHub Updater System",
           url: "https://github.com/perez987/GitHub-updater-system",
           description:
-            "Comprobador de actualizaciones ligero, desarrollado con SwiftUI, que consulta la API de Releases de GitHub para detectar versiones más recientes de tu aplicación. No requiere dependencias de terceros (sin Sparkle ni framework similar).",
+            "Comprobador de actualizaciones ligero, desarrollado con SwiftUI, que consulta la API de Releases de GitHub para detectar versiones más recientes de tu aplicación. No tiene dependencias de terceros (sin Sparkle ni framework similar).",
           category: "GitHub",
           accent: "#cdad00",
           highlights: ["GitHub release API", "GitHub releases"],
@@ -141,7 +141,7 @@
           name: "LipoArchs",
           url: "https://github.com/perez987/LipoArchs",
           description:
-            "Sencilla aplicación SwiftUI que muestra las arquitecturas de un ejecutable, biblioteca o bundle de app arrastrado sobre ella.",
+            "Sencilla aplicación SwiftUI que muestra las arquitecturas de ejecutables, bibliotecas o aplicaciones arrastradas sobre ella.",
           category: "Developer",
           accent: "#ff7b72",
           highlights: ["Binary inspection", "Architecture display", "Drop target"],
@@ -208,7 +208,7 @@
           name: "NotarizeDMG",
           url: "https://github.com/perez987/NotarizeDMG",
           description:
-            "Utilidad para macOS que notariza imágenes DMG firmadas o sin firmar con Apple y puede gestionar create-dmg cuando está instalado.",
+            "Utilidad para macOS que notariza imágenes DMG firmadas o sin firmar con Apple y puede gestionar `create-dmg` cuando está instalado.",
           category: "Developer",
           accent: "#a020f0",
           highlights: ["DMG notarization", "create-dmg Add-on"],
@@ -238,7 +238,7 @@
           name: "RX 6600 XT on macOS with softPowerPlayTable",
           url: "https://github.com/perez987/6600XT-on-macOS-with-softPowerPlayTable",
           description:
-            "RX 6600 XT en macOS: Zero RPM desactivado con softPowerPlayTable en SSDT o config.plist.",
+            "RX 6600 XT en macOS: Zero RPM desactivada con softPowerPlayTable en SSDT o config.plist.",
           category: "Hackintosh",
           accent: "#708090",
           highlights: ["PowerPlayTable", "softPowerPlayTable", "SSDT"],
@@ -297,7 +297,7 @@
           name: "Windowify-swiftui",
           url: "https://github.com/perez987/Windowify-swiftui",
           description:
-            "Abre una imagen como ventana al estilo de macOS configurable usando una aplicación de escritorio con SwiftUI.",
+            "Abre una imagen como ventana al estilo de macOS configurable, usando una aplicación de escritorio con SwiftUI.",
           category: "SwiftUI App",
           accent: "#f2cc60",
           highlights: ["Screenshot from image", "Configurable screenshot"],
