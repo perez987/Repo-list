@@ -87,7 +87,7 @@
             "A SwiftUI macOS menu bar app that monitors Ethernet status and speed, with Ethernet or Ethernet 2 selection for HeliPort and itlwm.",
           category: "SwiftUI App",
           accent: "#ffb5c5",
-          highlights: ["Ethernet status", "Link speed", "HeliPort + itlwm"],
+          highlights: ["Ethernet", "Link speed", "HeliPort + itlwm"],
         },
         {
           id: 10,
@@ -107,7 +107,7 @@
             "A SwiftUI macOS app that downloads your public and private GitHub repositories, counts release asset downloads, and stores credentials in Keychain.",
           category: "GitHub",
           accent: "#708090",
-          highlights: ["Repository downloads", "Release asset counts", "Keychain"],
+          highlights: ["GitHub repository downloads", "Releases counts", "Keychain"],
         },
         {
           id: 12,
@@ -174,7 +174,7 @@
             "Install macOS Monterey and Ventura on Gigabyte Z390 Aorus Elite with OpenCore, RX 6600 or Intel UHD 630, and EFI configurations for different SMBIOS models.",
           category: "Hackintosh",
           accent: "#58a6ff",
-          highlights: ["Monterey + Ventura", "OpenCore", "SMBIOS configurations"],
+          highlights: ["macOS Monterey", "macOS Ventura", "OpenCore"],
         },
         {
           id: 19,
@@ -184,7 +184,7 @@
             "macOS 15 Sequoia on Z390 Aorus Elite motherboard and RX 6600 XT using OpenCore.",
           category: "Hackintosh",
           accent: "#eed2ee",
-          highlights: ["macOS 15 Sequoia", "OpenCore", "OCLP"],
+          highlights: ["macOS Sequoia", "OpenCore", "OCLP"],
         },
         {
           id: 20,
@@ -194,7 +194,7 @@
             "Install macOS Sonoma on Gigabyte Z390 Aorus Elite with RX 6600 XT and OpenCore, including Broadcom Wi-Fi recovery using OCLP.",
           category: "Hackintosh",
           accent: "#56d364",
-          highlights: ["macOS 14 Sonoma", "OpenCore", "Broadcom Wi-Fi + OCLP"],
+          highlights: ["macOS Sonoma", "OpenCore", "Broadcom Wi-Fi + OCLP"],
         },
         {
           id: 21,
@@ -295,7 +295,7 @@
         },
         {
           id: 31,
-          name: "SMBIOS of Macs Intel",
+          name: "SMBIOS of Intel Macs",
           url: "https://github.com/perez987/SMBIOS-Intel-Mac-all",
           description: "Intel Mac SMBIOS with CPU, GPU, year, screen size and supported macOS (excluding Xserve).",
           category: "Hackintosh",
@@ -370,7 +370,7 @@
             "Convert an XML document to an HTML document with formatting and layout defined in an XSL style sheet with Visual Studio 2019 (VB).",
           category: "Other",
           accent: "#cdad00",
-          highlights: ["XSLCompiledTransform", "XSLT"],
+          highlights: ["XSL", "XSLCompiledTransform", "XSLT"],
         },
         {
           id: 39,
