@@ -107,7 +107,7 @@
             "Aplicación SwiftUI para macOS que descarga tus repositorios públicos y privados de GitHub, cuenta las descargas de archivos de releases y guarda las credenciales en el Llavero.",
           category: "GitHub",
           accent: "#708090",
-          highlights: ["Repository downloads", "Release asset counts", "Keychain"],
+          highlights: ["GitHub repository downloads", "Releases counts", "Keychain"],
         },
         {
           id: 12,
@@ -174,7 +174,7 @@
             "Instala macOS Monterey y Ventura en Gigabyte Z390 Aorus Elite con OpenCore, RX 6600 o Intel UHD 630 y configuraciones EFI para distintos modelos SMBIOS.",
           category: "Hackintosh",
           accent: "#58a6ff",
-          highlights: ["Monterey + Ventura", "OpenCore", "SMBIOS configurations"],
+          highlights: ["macOS Monterey", "macOS Ventura", "OpenCore"],
         },
         {
           id: 19,
@@ -184,7 +184,7 @@
             "macOS 15 Sequoia en placa base Z390 Aorus Elite con RX 6600 XT usando OpenCore.",
           category: "Hackintosh",
           accent: "#eed2ee",
-          highlights: ["macOS 15 Sequoia", "OpenCore", "OCLP"],
+          highlights: ["macOS Sequoia", "OpenCore", "OCLP"],
         },
         {
           id: 20,
@@ -194,7 +194,7 @@
             "Instala macOS Sonoma en Gigabyte Z390 Aorus Elite con RX 6600 XT y OpenCore, incluida la recuperación del Wi-Fi Broadcom mediante OCLP.",
           category: "Hackintosh",
           accent: "#56d364",
-          highlights: ["macOS 14 Sonoma", "OpenCore", "Broadcom Wi-Fi + OCLP"],
+          highlights: ["macOS Sonoma", "OpenCore", "Broadcom Wi-Fi + OCLP"],
         },
         {
           id: 21,
@@ -295,7 +295,7 @@
         },
         {
           id: 31,
-          name: "SMBIOS of Macs Intel",
+          name: "SMBIOS of Intel Macs",
           url: "https://github.com/perez987/SMBIOS-Intel-Mac-all",
           description: "SMBIOS de Mac Intel con CPU, GPU, año, tamaño de pantalla y macOS compatibles (excepto Xserve).",
           category: "Hackintosh",
