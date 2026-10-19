@@ -7,27 +7,7 @@
             "A hardware info app for macOS that keeps the classic About This Mac feel while adding a modern SwiftUI presentation and more detail.",
           category: "SwiftUI App",
           accent: "#ff7b72",
-          highlights: ["Hardware discovery", "Logo customization"],
-        },
-        {
-          id: 2,
-          name: "About This Hack 4.4.9",
-          url: "https://github.com/perez987/About-This-Hack-4.4.9",
-          description:
-            "Version 4.4.9 of the About This Hack project.",
-          category: "SwiftUI App",
-          accent: "#ffa657",
-          highlights: ["About This Hack", "Version 4.4.9"],
-        },
-        {
-          id: 3,
-          name: "About This Hack glass",
-          url: "https://github.com/perez987/About-This-Hack-glass",
-          description:
-            "The glass variant of the About This Hack project.",
-          category: "SwiftUI App",
-          accent: "#f2cc60",
-          highlights: ["About This Hack", "Glass variant"],
+          highlights: ["Hardware", "Custom logo", "About This Mac"],
         },
         {
           id: 4,
@@ -67,7 +47,7 @@
             "Reinstall AppleHDA.kext, removed since macOS Tahoe beta 2, to restore sound from the built-in audio chip.",
           category: "Hackintosh",
           accent: "#a371f7",
-          highlights: ["AppleHDA.kext", "MyKextInstaller", "SimpleLoader"],
+          highlights: ["HDAUniversal.kext", "MyKextInstaller", "SimpleHDA.kext"],
         },
         {
           id: 8,
@@ -120,26 +100,6 @@
           highlights: ["PKG downloads", "IPSW firmware", "Golden Gate support"],
         },
         {
-          id: 13,
-          name: "DownloadFullInstaller-11",
-          url: "https://github.com/perez987/DownloadFullInstaller-11",
-          description:
-            "The DownloadFullInstaller variant in the DownloadFullInstaller-11 repository.",
-          category: "SwiftUI App",
-          accent: "#ff83fa",
-          highlights: ["DownloadFullInstaller"],
-        },
-        {
-          id: 14,
-          name: "DownloadFullInstaller-swift6",
-          url: "https://github.com/perez987/DownloadFullInstaller-swift6",
-          description:
-            "The Swift 6 variant of the DownloadFullInstaller project.",
-          category: "SwiftUI App",
-          accent: "#c1cdcd",
-          highlights: ["DownloadFullInstaller", "Swift 6"],
-        },
-        {
           id: 15,
           name: "Easy-Ethernet-Icon",
           url: "https://github.com/perez987/Easy-Ethernet-Icon",
@@ -177,7 +137,7 @@
             "A SwiftUI macOS app that downloads your public and private GitHub repositories, counts release asset downloads, and stores credentials in Keychain.",
           category: "GitHub",
           accent: "#58a6ff",
-          highlights: ["GitHub repository downloads", "Releases counts", "Keychain"],
+          highlights: ["Repository downloads", "Releases counts", "Keychain"],
         },
         {
           id: 19,
@@ -209,15 +169,6 @@
           highlights: ["Build .iconset", "Image to .icns"],
         },
         {
-          id: 22,
-          name: "Iconos",
-          url: "https://github.com/perez987/Iconos",
-          description: "The Iconos project repository.",
-          category: "Other",
-          accent: "#a020f0",
-          highlights: ["Iconos"],
-        },
-        {
           id: 23,
           name: "Intel AX210 on macOS Sonoma up to Tahoe",
           url: "https://github.com/perez987/Intel-AX210-on-Sonoma-Sequoia-Tahoe",
@@ -242,7 +193,7 @@
           description: "The Jicoteca project repository.",
           category: "Other",
           accent: "#708090",
-          highlights: ["Jicoteca"],
+          highlights: ["Jicoteca", "Responsive HTML"],
         },
         {
           id: 26,
@@ -262,7 +213,7 @@
             "Localize a Swift app into Spanish on macOS Ventura using Xcode 14.",
           category: "Developer",
           accent: "#ff83fa",
-          highlights: ["Localization", "Spanish", "Xcode"],
+          highlights: ["Localization", "Strings file", "Xcode"],
         },
         {
           id: 28,
